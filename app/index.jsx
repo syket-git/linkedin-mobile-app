@@ -1,3 +1,4 @@
+import { router } from "expo-router";
 import { StatusBar } from "expo-status-bar";
 import { useState } from "react";
 import { Image, Text, TextInput, View } from "react-native";
@@ -7,7 +8,11 @@ import CustomLoginBtn from "../components/CustomLoginBtn";
 
 const Index = () => {
   const [isSelected, setIsSelected] = useState(false);
+
   const handlePress = () => {};
+  const handleSignIn = () => {
+    router.push("/home");
+  };
 
   return (
     <SafeAreaView className="flex-1 bg-black-100">
@@ -64,7 +69,7 @@ const Index = () => {
             />
             <View>
               <CustomButton
-                handlePress={() => {}}
+                handlePress={handleSignIn}
                 className="bg-blue w-full h-3 mt-7"
                 textStyle="font-psemibold text-xl"
                 title="Sign in"
