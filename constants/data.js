@@ -57,3 +57,47 @@ export const posts = [
     comments: 3,
   },
 ];
+
+export const invitations = [
+  {
+    id: 1,
+    category: "It service and It consulting",
+    pageName: "Advayan",
+    personName: "Aryan B",
+    time: "1 month ago",
+    image:
+      "https://media.licdn.com/dms/image/D5603AQGdpklsYSl8Jg/profile-displayphoto-shrink_100_100/0/1695197463078?e=1720656000&v=beta&t=26L0U2MFalzs7BYYbFbOjDjc6UmTpbxapQulOWCGI8g",
+  },
+  {
+    id: 2,
+    category: "It service and It consulting",
+    pageName: "Advayan",
+    personName: "Aryan B",
+    time: "1 month ago",
+    image:
+      "https://media.licdn.com/dms/image/D5603AQGdpklsYSl8Jg/profile-displayphoto-shrink_100_100/0/1695197463078?e=1720656000&v=beta&t=26L0U2MFalzs7BYYbFbOjDjc6UmTpbxapQulOWCGI8g",
+  },
+];
+
+export const users = [
+  {
+    id: 1,
+    banner:
+      "https://media.licdn.com/dms/image/D4D16AQGORoJRAY5riw/profile-displaybackgroundimage-shrink_200_800/0/1706467155595?e=1720656000&v=beta&t=gubto3wVNEY7MEG2zovsJfBqAhKpCObfjUAq0WKq2gI",
+    image:
+      "https://media.licdn.com/dms/image/D5635AQEmVQlwORBD6w/profile-framedphoto-shrink_200_200/0/1714376922442?e=1716026400&v=beta&t=KIGMU5IGmLn51wHON1sF_i8Rz7aS6vV6tqDGa8k2pqA",
+    name: "Muhammad Muneeb",
+    tagline: "Software Engineer | MERN | MEVN | Typescript",
+    connection: "Based on your profile",
+  },
+  {
+    id: 2,
+    banner:
+      "https://media.licdn.com/dms/image/D4D16AQGORoJRAY5riw/profile-displaybackgroundimage-shrink_200_800/0/1706467155595?e=1720656000&v=beta&t=gubto3wVNEY7MEG2zovsJfBqAhKpCObfjUAq0WKq2gI",
+    image:
+      "https://media.licdn.com/dms/image/D5635AQEmVQlwORBD6w/profile-framedphoto-shrink_200_200/0/1714376922442?e=1716026400&v=beta&t=KIGMU5IGmLn51wHON1sF_i8Rz7aS6vV6tqDGa8k2pqA",
+    name: "Muhammad Muneeb",
+    tagline: "Software Engineer | MERN | MEVN | Typescript",
+    connection: "Based on your profile",
+  },
+];
