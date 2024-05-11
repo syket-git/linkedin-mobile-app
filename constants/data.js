@@ -165,3 +165,96 @@ export const notifications = [
     time: "2h",
   },
 ];
+
+export const jobs = [
+  {
+    id: 1,
+    title: "Backend Developer",
+    companyName: "CodeCrafters",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "1 day ago",
+    location: "United States (Remote)",
+  },
+  {
+    id: 2,
+    title: "Data Scientist",
+    companyName: "DataMinds",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "2 days ago",
+    location: "Canada (Remote)",
+  },
+  {
+    id: 3,
+    title: "UI/UX Designer",
+    companyName: "DesignWorks",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "3 days ago",
+    location: "United Kingdom (Remote)",
+  },
+  {
+    id: 4,
+    title: "Full Stack Engineer",
+    companyName: "TechInnovate",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "4 days ago",
+    location: "Australia (Remote)",
+  },
+  {
+    id: 5,
+    title: "Product Manager",
+    companyName: "InnoSolutions",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "5 days ago",
+    location: "Germany (Remote)",
+  },
+  {
+    id: 6,
+    title: "DevOps Engineer",
+    companyName: "CloudBuilders",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "6 days ago",
+    location: "France (Remote)",
+  },
+  {
+    id: 7,
+    title: "Software Engineer",
+    companyName: "TechSavvy",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "7 days ago",
+    location: "Japan (Remote)",
+  },
+  {
+    id: 8,
+    title: "Machine Learning Engineer",
+    companyName: "AI Innovations",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "8 days ago",
+    location: "China (Remote)",
+  },
+  {
+    id: 9,
+    title: "Cybersecurity Analyst",
+    companyName: "SecureNet",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "9 days ago",
+    location: "India (Remote)",
+  },
+  {
+    id: 10,
+    title: "Blockchain Developer",
+    companyName: "BlockMasters",
+    image:
+      "https://media.licdn.com/dms/image/C560BAQH5Qh6zCIZ_UA/company-logo_100_100/0/1672295396449?e=1723680000&v=beta&t=952L8VxZQKefL9YGT9qResAXE45GaPo11UDnMWn-Vqk",
+    time: "10 days ago",
+    location: "Brazil (Remote)",
+  },
+];
