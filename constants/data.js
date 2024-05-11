@@ -101,3 +101,67 @@ export const users = [
     connection: "Based on your profile",
   },
 ];
+
+export const notifications = [
+  {
+    id: 1,
+    title: "Here’s how to craft a CV that captures attention.",
+    image:
+      "https://media.licdn.com/media/AAYAAgQdAAgAAQAAAAAAAJ3nO1-caJY-S02ttP6I1uGbaA.png",
+    connection: "Recommended for you",
+    time: "18m",
+  },
+  {
+    id: 2,
+    title:
+      "Creowis Technologies Review more analytics for this post: Have you ever delved into the world of array destructuring in JavaScript? Let's look at this handy feature and explore its upsides and downsides! Pros: Simple Syntax: Array destructuring makes extracting multiple values from an array easy, keeping your code neat and easy to understand. Efficient Assignment: You can assign extracted values to variables in just one line, which helps keep your code organized and easy to manage. Clearer Code: By naming the elements you extract during destructuring, you make your code more transparent...",
+    image:
+      "https://media.licdn.com/dms/image/D4E0BAQH7EO-vbm81uA/company-logo_100_100/0/1697028649933?e=1723680000&v=beta&t=Xbut-MCv1viCmX-zh_TZ3UJAL0BKJ79dleaXQH03IKM",
+    connection: "",
+    time: "2h",
+  },
+  {
+    id: 3,
+    title: "Here’s how to craft a CV that captures attention.",
+    image:
+      "https://media.licdn.com/media/AAYAAgQdAAgAAQAAAAAAAJ3nO1-caJY-S02ttP6I1uGbaA.png",
+    connection: "Recommended for you",
+    time: "1h",
+  },
+  {
+    id: 4,
+    title:
+      "Creowis Technologies Review more analytics for this post: Have you ever delved into the world of array destructuring in JavaScript? Let's look at this handy feature and explore its upsides and downsides! Pros: Simple Syntax: Array destructuring makes extracting multiple values from an array easy, keeping your code neat and easy to understand. Efficient Assignment: You can assign extracted values to variables in just one line, which helps keep your code organized and easy to manage. Clearer Code: By naming the elements you extract during destructuring, you make your code more transparent...",
+    image:
+      "https://media.licdn.com/dms/image/D4E0BAQH7EO-vbm81uA/company-logo_100_100/0/1697028649933?e=1723680000&v=beta&t=Xbut-MCv1viCmX-zh_TZ3UJAL0BKJ79dleaXQH03IKM",
+    connection: "",
+    time: "2h",
+  },
+  {
+    id: 5,
+    title:
+      "Creowis Technologies Review more analytics for this post: Have you ever delved into the world of array destructuring in JavaScript? Let's look at this handy feature and explore its upsides and downsides! Pros: Simple Syntax: Array destructuring makes extracting multiple values from an array easy, keeping your code neat and easy to understand. Efficient Assignment: You can assign extracted values to variables in just one line, which helps keep your code organized and easy to manage. Clearer Code: By naming the elements you extract during destructuring, you make your code more transparent...",
+    image:
+      "https://media.licdn.com/dms/image/D4E0BAQH7EO-vbm81uA/company-logo_100_100/0/1697028649933?e=1723680000&v=beta&t=Xbut-MCv1viCmX-zh_TZ3UJAL0BKJ79dleaXQH03IKM",
+    connection: "",
+    time: "2h",
+  },
+  {
+    id: 6,
+    title:
+      "Creowis Technologies Review more analytics for this post: Have you ever delved into the world of array destructuring in JavaScript? Let's look at this handy feature and explore its upsides and downsides! Pros: Simple Syntax: Array destructuring makes extracting multiple values from an array easy, keeping your code neat and easy to understand. Efficient Assignment: You can assign extracted values to variables in just one line, which helps keep your code organized and easy to manage. Clearer Code: By naming the elements you extract during destructuring, you make your code more transparent...",
+    image:
+      "https://media.licdn.com/dms/image/D4E0BAQH7EO-vbm81uA/company-logo_100_100/0/1697028649933?e=1723680000&v=beta&t=Xbut-MCv1viCmX-zh_TZ3UJAL0BKJ79dleaXQH03IKM",
+    connection: "",
+    time: "2h",
+  },
+  {
+    id: 7,
+    title:
+      "Creowis Technologies Review more analytics for this post: Have you ever delved into the world of array destructuring in JavaScript? Let's look at this handy feature and explore its upsides and downsides! Pros: Simple Syntax: Array destructuring makes extracting multiple values from an array easy, keeping your code neat and easy to understand. Efficient Assignment: You can assign extracted values to variables in just one line, which helps keep your code organized and easy to manage. Clearer Code: By naming the elements you extract during destructuring, you make your code more transparent...",
+    image:
+      "https://media.licdn.com/dms/image/D4E0BAQH7EO-vbm81uA/company-logo_100_100/0/1697028649933?e=1723680000&v=beta&t=Xbut-MCv1viCmX-zh_TZ3UJAL0BKJ79dleaXQH03IKM",
+    connection: "",
+    time: "2h",
+  },
+];

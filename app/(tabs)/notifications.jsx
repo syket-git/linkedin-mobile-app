@@ -4,6 +4,7 @@ import { FlatList, Text, TouchableOpacity, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import CustomHeader from "../../components/CustomHeader";
 import NotificationCard from "../../components/NotificationCard";
+import { notifications } from "../../constants/data";
 
 const Notifications = () => {
   const [active, setActive] = useState(0);
@@ -12,15 +13,13 @@ const Notifications = () => {
     <SafeAreaView className="flex-1 bg-black-200">
       <View className="flex-1">
         <FlatList
-          data={[]}
+          data={notifications}
           keyExtractor={(item) => item.id}
-          renderItem={({ notification }) => (
-            <NotificationCard notification={notification} />
-          )}
+          renderItem={({ item }) => <NotificationCard notification={item} />}
           ListHeaderComponent={() => (
             <View>
               <CustomHeader />
-              <View className="flex flex-row items-center gap-x-1">
+              <View className="flex flex-row items-center px-3 gap-x-1">
                 <TouchableOpacity
                   onPress={() => setActive(0)}
                   className={`${
