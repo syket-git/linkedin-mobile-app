@@ -1,10 +1,14 @@
 import { Ionicons } from "@expo/vector-icons";
+import { router } from "expo-router";
 import { Image, TextInput, TouchableOpacity, View } from "react-native";
 
 const CustomHeader = () => {
+  const handlePress = () => {
+    router.push("/profile");
+  };
   return (
     <View className="flex-row px-3 gap-x-3 h-12 items-center mb-2">
-      <TouchableOpacity>
+      <TouchableOpacity onPress={handlePress}>
         <Image
           source={{
             uri: "https://avatars.githubusercontent.com/u/39830305?v=4",
