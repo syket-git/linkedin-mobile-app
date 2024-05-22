@@ -85,7 +85,7 @@ export const users = [
     banner:
       "https://media.licdn.com/dms/image/D4D16AQGORoJRAY5riw/profile-displaybackgroundimage-shrink_200_800/0/1706467155595?e=1720656000&v=beta&t=gubto3wVNEY7MEG2zovsJfBqAhKpCObfjUAq0WKq2gI",
     image:
-      "https://media.licdn.com/dms/image/D5635AQEmVQlwORBD6w/profile-framedphoto-shrink_200_200/0/1714376922442?e=1716026400&v=beta&t=KIGMU5IGmLn51wHON1sF_i8Rz7aS6vV6tqDGa8k2pqA",
+      "https://media.licdn.com/dms/image/C4D03AQFEIQipjGcJTA/profile-displayphoto-shrink_100_100/0/1639413641258?e=1721865600&v=beta&t=I_R5g7ueZngUXAUkzbR925XQIVdxWl47kKlZ6FgmM28",
     name: "Muhammad Muneeb",
     tagline: "Software Engineer | MERN | MEVN | Typescript",
     connection: "Based on your profile",
@@ -95,7 +95,57 @@ export const users = [
     banner:
       "https://media.licdn.com/dms/image/D4D16AQGORoJRAY5riw/profile-displaybackgroundimage-shrink_200_800/0/1706467155595?e=1720656000&v=beta&t=gubto3wVNEY7MEG2zovsJfBqAhKpCObfjUAq0WKq2gI",
     image:
-      "https://media.licdn.com/dms/image/D5635AQEmVQlwORBD6w/profile-framedphoto-shrink_200_200/0/1714376922442?e=1716026400&v=beta&t=KIGMU5IGmLn51wHON1sF_i8Rz7aS6vV6tqDGa8k2pqA",
+      "https://media.licdn.com/dms/image/C4D03AQFEIQipjGcJTA/profile-displayphoto-shrink_100_100/0/1639413641258?e=1721865600&v=beta&t=I_R5g7ueZngUXAUkzbR925XQIVdxWl47kKlZ6FgmM28",
+    name: "Muhammad Muneeb",
+    tagline: "Software Engineer | MERN | MEVN | Typescript",
+    connection: "Based on your profile",
+  },
+  {
+    id: 3,
+    banner:
+      "https://media.licdn.com/dms/image/D4D16AQGORoJRAY5riw/profile-displaybackgroundimage-shrink_200_800/0/1706467155595?e=1720656000&v=beta&t=gubto3wVNEY7MEG2zovsJfBqAhKpCObfjUAq0WKq2gI",
+    image:
+      "https://media.licdn.com/dms/image/C4D03AQFEIQipjGcJTA/profile-displayphoto-shrink_100_100/0/1639413641258?e=1721865600&v=beta&t=I_R5g7ueZngUXAUkzbR925XQIVdxWl47kKlZ6FgmM28",
+    name: "Muhammad Muneeb",
+    tagline: "Software Engineer | MERN | MEVN | Typescript",
+    connection: "Based on your profile",
+  },
+  {
+    id: 4,
+    banner:
+      "https://media.licdn.com/dms/image/D4D16AQGORoJRAY5riw/profile-displaybackgroundimage-shrink_200_800/0/1706467155595?e=1720656000&v=beta&t=gubto3wVNEY7MEG2zovsJfBqAhKpCObfjUAq0WKq2gI",
+    image:
+      "https://media.licdn.com/dms/image/C4D03AQFEIQipjGcJTA/profile-displayphoto-shrink_100_100/0/1639413641258?e=1721865600&v=beta&t=I_R5g7ueZngUXAUkzbR925XQIVdxWl47kKlZ6FgmM28",
+    name: "Muhammad Muneeb",
+    tagline: "Software Engineer | MERN | MEVN | Typescript",
+    connection: "Based on your profile",
+  },
+  {
+    id: 5,
+    banner:
+      "https://media.licdn.com/dms/image/D4D16AQGORoJRAY5riw/profile-displaybackgroundimage-shrink_200_800/0/1706467155595?e=1720656000&v=beta&t=gubto3wVNEY7MEG2zovsJfBqAhKpCObfjUAq0WKq2gI",
+    image:
+      "https://media.licdn.com/dms/image/C4D03AQFEIQipjGcJTA/profile-displayphoto-shrink_100_100/0/1639413641258?e=1721865600&v=beta&t=I_R5g7ueZngUXAUkzbR925XQIVdxWl47kKlZ6FgmM28",
+    name: "Muhammad Muneeb",
+    tagline: "Software Engineer | MERN | MEVN | Typescript",
+    connection: "Based on your profile",
+  },
+  {
+    id: 6,
+    banner:
+      "https://media.licdn.com/dms/image/D4D16AQGORoJRAY5riw/profile-displaybackgroundimage-shrink_200_800/0/1706467155595?e=1720656000&v=beta&t=gubto3wVNEY7MEG2zovsJfBqAhKpCObfjUAq0WKq2gI",
+    image:
+      "https://media.licdn.com/dms/image/C4D03AQFEIQipjGcJTA/profile-displayphoto-shrink_100_100/0/1639413641258?e=1721865600&v=beta&t=I_R5g7ueZngUXAUkzbR925XQIVdxWl47kKlZ6FgmM28",
+    name: "Muhammad Muneeb",
+    tagline: "Software Engineer | MERN | MEVN | Typescript",
+    connection: "Based on your profile",
+  },
+  {
+    id: 7,
+    banner:
+      "https://media.licdn.com/dms/image/D4D16AQGORoJRAY5riw/profile-displaybackgroundimage-shrink_200_800/0/1706467155595?e=1720656000&v=beta&t=gubto3wVNEY7MEG2zovsJfBqAhKpCObfjUAq0WKq2gI",
+    image:
+      "https://media.licdn.com/dms/image/C4D03AQFEIQipjGcJTA/profile-displayphoto-shrink_100_100/0/1639413641258?e=1721865600&v=beta&t=I_R5g7ueZngUXAUkzbR925XQIVdxWl47kKlZ6FgmM28",
     name: "Muhammad Muneeb",
     tagline: "Software Engineer | MERN | MEVN | Typescript",
     connection: "Based on your profile",
